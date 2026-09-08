@@ -1,0 +1,126 @@
+s-lab@ds-lab-System-Product-Name:~/dslap421125106022/EX01$ ./a.out
+
+Singly Lined List Operations Menu :
+1.Insert at End
+2.Insert at position
+3.search Element
+4.Delete Element
+5.Display list
+6.Exit
+Enter your choice: 1
+Enter data to insert at end: 5
+
+Singly Lined List Operations Menu :
+1.Insert at End
+2.Insert at position
+3.search Element
+4.Delete Element
+5.Display list
+6.Exit
+Enter your choice: 1 2 3 4 5
+Enter data to insert at end: 
+Singly Lined List Operations Menu :
+1.Insert at End
+2.Insert at position
+3.search Element
+4.Delete Element
+5.Display list
+6.Exit
+Enter your choice: Enter element to search: Element not found in the list
+
+Singly Lined List Operations Menu :
+1.Insert at End
+2.Insert at position
+3.search Element
+4.Delete Element
+5.Display list
+6.Exit
+Enter your choice: Linked List:n 5->2->NULL
+
+Singly Lined List Operations Menu :
+1.Insert at End
+2.Insert at position
+3.search Element
+4.Delete Element
+5.Display list
+6.Exit
+Enter your choice: 2
+Enter data to insert: 10
+Enter position to insert(0 - based index): 2
+
+Singly Lined List Operations Menu :
+1.Insert at End
+2.Insert at position
+3.search Element
+4.Delete Element
+5.Display list
+6.Exit
+Enter your choice: 5
+Linked List:n 5->2->10->NULL
+
+Singly Lined List Operations Menu :
+1.Insert at End
+2.Insert at position
+3.search Element
+4.Delete Element
+5.Display list
+6.Exit
+Enter your choice: 1 2 10 3 4 5
+Enter data to insert at end: 
+Singly Lined List Operations Menu :
+1.Insert at End
+2.Insert at position
+3.search Element
+4.Delete Element
+5.Display list
+6.Exit
+Enter your choice: Invalid choice! please enter a valid option.
+
+Singly Lined List Operations Menu :
+1.Insert at End
+2.Insert at position
+3.search Element
+4.Delete Element
+5.Display list
+6.Exit
+Enter your choice: Enter element to search: Element found at position:1
+
+Singly Lined List Operations Menu :
+1.Insert at End
+2.Insert at position
+3.search Element
+4.Delete Element
+5.Display list
+6.Exit
+Enter your choice: Linked List:n 5->2->10->2->NULL
+
+Singly Lined List Operations Menu :
+1.Insert at End
+2.Insert at position
+3.search Element
+4.Delete Element
+5.Display list
+6.Exit
+Enter your choice: 3
+Enter element to search: 10
+Element found at position:1
+
+Singly Lined List Operations Menu :
+1.Insert at End
+2.Insert at position
+3.search Element
+4.Delete Element
+5.Display list
+6.Exit
+Enter your choice: 4
+Enter position to delete(0-based index):2
+
+Singly Lined List Operations Menu :
+1.Insert at End
+2.Insert at position
+3.search Element
+4.Delete Element
+5.Display list
+6.Exit
+Enter your choice: 6
+ds-lab@ds-lab-System-Product-Name:~/dslap421125106022/EX01$ 
